@@ -1,9 +1,1 @@
-# web-makisan-tech
-developers
-sanso me faltan fotos 
- integracion general 
-
-miniaturas de proyecto
-y fondo de pantalla 
-funcionalidad del formulario .
-Yo con eduardo la
+Landing Page diseñanada en equipo junto a Franco y Jonathan, con la orientacion de Sol para la empresa Makisan-Tech.
