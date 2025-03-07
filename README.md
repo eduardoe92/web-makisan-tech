@@ -6,7 +6,7 @@ Bienvenido al repositorio del proyecto **Web Makisan Tech**, un sitio web desarr
 
 La aplicación está desplegado en github. 
 
-- Puedes vesuilizarla en: <a href="https://jonathansansok.github.io/web-makisan-tech/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
+- Puedes visualizarla en: <a href="https://jonathansansok.github.io/web-makisan-tech/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
 
 ## 📌 Características
 
